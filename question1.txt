@@ -1,0 +1,1 @@
+Question-Morty's Farm- Morty has a Rectangular farm of length 'l' and breadth 'b'. He wants to buy seeds for it. Help him find the field's area. 

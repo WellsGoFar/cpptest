@@ -1,0 +1,1 @@
+question2-Just in time-Rick has to prepare for his test. He wants to know how much time,in munutes, does he have in his hands to prepare. He knows the number of hours he has. Help him to convert hours to minutes
